@@ -21,7 +21,6 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
         <td align="center" width="90"><img height="55" src="./icons/react.svg" width="55"><br>React</td>
         <td align="center" width="90"><img height="55" src="./icons/nodejs.svg" width="55"><br>Node.js</td>
         <td align="center" width="90"><img height="55" src="./icons/express.svg" width="55"><br>Express.js</td>
-        <td align="center" width="90"><img height="55" src="./icons/fastapi.svg" width="55"><br>FastAPI</td>
         <td align="center" width="90"><img height="55" src="./icons/tailwindcss.svg" width="55"><br>Tailwind CSS</td>
     </tr>
     <tr>
@@ -33,12 +32,10 @@ I'm passionate about problem-solving, hackathons, and turning ideas into impactf
         <td align="center" width="90"><img height="55" src="./icons/github.svg" width="55"><br>GitHub</td>
         <td align="center" width="90"><img height="55" src="./icons/mysql.svg" width="55"><br>MySQL</td>
         <td align="center" width="90"><img height="55" src="./icons/c.svg" width="55"><br>C</td>
-        <td align="center" width="90"><img height="55" src="./icons/java.svg" width="55"><br>Java</td>
     </tr>
     <tr>
-        <td align="center" width="90"><img height="55" src="./icons/googlecloud.svg" width="55"><br>GCP</td>
+        <td align="center" width="90"><img height="55" src="./icons/java.svg" width="55"><br>Java</td>
         <td align="center" width="90"><img height="55" src="./icons/aws.svg" width="55"><br>AWS</td>
-        <td align="center" width="90"><img height="55" src="./icons/azure.svg" width="55"><br>Azure</td>
         <td align="center" width="90"><img height="55" src="./icons/mongodb.svg" width="55"><br>MongoDB</td>
         <td align="center" width="90"><img height="55" src="./icons/postman.svg" width="55"><br>Postman</td>
         <td align="center" width="90"><img height="55" src="./icons/supabase.svg" width="55"><br>Supabase</td>
