@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-shrivastava-1901">
+  <a href="https://www.linkedin.com/in/ayush-shrivastav19/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ayush.s1901@gmail.com">
@@ -74,8 +74,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushs1901&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushs1901&theme=tokyonight&hide_border=true&stroke=00D4FF" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushs1901&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushs1901&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -132,7 +132,7 @@
 <p align="center">
   <b>I'm always open to exciting opportunities and collaborations!</b>
   <br><br>
-  <a href="https://www.linkedin.com/in/ayush-shrivastava-1901">
+  <a href="https://www.linkedin.com/in/ayush-shrivastav19/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ayush.s1901@gmail.com">
